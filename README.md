@@ -3,8 +3,15 @@
 
 ![banner](./images/github-web-developer-banner-01.png)
 
-</br>
 
+- 🌱 I’m currently learning **nextjs and mongoose**, 
+- 💬 Ask me about **anything**
+- 📫 How to reach me: **abuobaidazayed@gmail.com**
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: **I can sing Nasheed**
+
+
+</br>
 
 ## :chart_with_upwards_trend: Current Status
 <p align="center">
@@ -42,15 +49,16 @@
 
 ## Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,firebase,react,nodejs,express,mongodb)](https://skillicons.dev)
+<img style="border: 1px gray solid; background:#ededed; border-radius:10px" src="./images/icons/icons8-mongoose.svg"/>
 
 
 </br>
 
 ## Tools I use
-[![My Skills](https://skillicons.dev/icons?i=vscode,ps,ai,xd)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,figma,ps,ai,xd)](https://skillicons.dev)
 
-<!--
-Here are some ideas to get you started:
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -59,5 +67,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
