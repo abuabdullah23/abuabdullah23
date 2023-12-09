@@ -1,8 +1,7 @@
 <!-- ### Hi there 👋 -->
 
-# Overview
 
-![overview](./images/github-web-developer-banner-01.png)
+![banner](./images/github-web-developer-banner-01.png)
 
 </br>
 
@@ -15,10 +14,10 @@
 
 </br>
 
-## Most used languages
+
 
 <div align="center">
-<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdullah23&theme=algolia&background=06044a&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdullah23&theme=algolia&background=06044a&hide_border=true" />
 </div>
 
 
