@@ -49,6 +49,8 @@
 </br>
 
 ## :computer: Technologies I use
+<p>I am working with react, tailwind, mongodb, express, nodejs etc</p>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,firebase,react,nodejs,express,mongodb)](https://skillicons.dev)
 <img style="border: 1px gray solid; background:#ededed; border-radius:10px" src="./images/icons/icons8-mongoose.svg"/>
 
