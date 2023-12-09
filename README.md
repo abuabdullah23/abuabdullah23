@@ -2,8 +2,9 @@
 
 
 ![banner](./images/github-web-developer-banner-01.png)
+</br>
 
-
+## :eye: Current Overview
 - 🌱 I’m currently learning **nextjs and mongoose**, 
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **abuobaidazayed@gmail.com**
