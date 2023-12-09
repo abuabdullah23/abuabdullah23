@@ -54,7 +54,7 @@
 
 </br>
 
-## :tools: Tools I use
+## 🧰 Tools I use
 [![Tools](https://skillicons.dev/icons?i=vscode,figma,ps,ai,xd)](https://skillicons.dev)
 
 
