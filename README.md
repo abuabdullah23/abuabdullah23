@@ -13,6 +13,15 @@
 </p>
 
 
+</br>
+
+## Most used languages
+
+<div align="center">
+<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdullah23&theme=algolia&background=06044a&hide_border=true" />
+</div>
+
+
 
 </br>
 
@@ -33,13 +42,13 @@
 </br>
 
 ## Technologies I use
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,visualstudio,firebase,react,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,firebase,react,nodejs,express,mongodb)](https://skillicons.dev)
 
 
 </br>
 
 ## Tools I use
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ps,ai,xd)](https://skillicons.dev)
 
 <!--
 Here are some ideas to get you started:
