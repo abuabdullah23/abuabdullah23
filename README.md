@@ -47,14 +47,14 @@
 
 </br>
 
-## Technologies I use
+## :computer: Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,firebase,react,nodejs,express,mongodb)](https://skillicons.dev)
 <img style="border: 1px gray solid; background:#ededed; border-radius:10px" src="./images/icons/icons8-mongoose.svg"/>
 
 
 </br>
 
-## Tools I use
+## :tools: Tools I use
 [![Tools](https://skillicons.dev/icons?i=vscode,figma,ps,ai,xd)](https://skillicons.dev)
 
 
